@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVMSample</string>
+    <string name="stymulus_signup">Não tem conta? Cadastre-se aqui</string>
+    <string name="email_hint">teste@gmail.com</string>
+    <string name="signup">Cadastar</string>
+</resources>
